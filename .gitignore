@@ -1,0 +1,22 @@
+﻿# Excel and session files
+characteristics.xlsx
+session-opencode.json
+
+# Image and media files (store structure only via .gitkeep)
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.JPG
+*.JPEG
+*.PNG
+*.WEBP
+*.pdf
+*.PDF
+*.xlsx
+*.XLSX
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.log
